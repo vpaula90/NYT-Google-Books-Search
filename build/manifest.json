@@ -1,0 +1,12 @@
+{
+  "short_name": "Google Books Search",
+  "name": "Google Books Search",
+  "icons": [
+    {
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone"
+}
